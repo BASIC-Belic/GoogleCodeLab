@@ -2,4 +2,9 @@
     <string name="app_name">Google CodeLab</string>
     <string name="hello_world_text">Capstone is kicking my A-S-S</string>
     <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="_0">0</string>
+    <string name="toast">TOAST</string>
+    <string name="count">COUNT</string>
+    <string name="random">RANDOM</string>
+    <string name="r">R</string>
 </resources>
